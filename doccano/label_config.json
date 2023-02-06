@@ -1,0 +1,146 @@
+[
+  {
+    "id": 4,
+    "text": "1-1感情真挚",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5,
+    "text": "1-2中心突出",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 6,
+    "text": "1-3内容充实",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 7,
+    "text": "2-1结构严谨",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 8,
+    "text": "2-2语言流畅",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 9,
+    "text": "3-1-1透过现象看本质",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 10,
+    "text": "3-1-2观点具有启发作用",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 11,
+    "text": "3-2-1材料丰富",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 12,
+    "text": "3-2-2形象丰满",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 13,
+    "text": "3-2-3意境深远",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 14,
+    "text": "3-3-1用词贴切",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 15,
+    "text": "3-3-2句式灵活",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 16,
+    "text": "3-3-3修辞手法",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 17,
+    "text": "3-3-4文句有表现力",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 18,
+    "text": "3-4-1新颖",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 19,
+    "text": "3-4-2构思精巧",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 20,
+    "text": "3-4-3推理想象有独到之处",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 21,
+    "text": "3-4-4有个性特征",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  }
+]
